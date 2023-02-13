@@ -1,0 +1,20 @@
+{
+	"name": "io.jimothy.fpc",
+	"version": "0.1.0",
+	"displayName": "Jimothy's Lightweight FPC",
+	"unity": "2021.3",
+	"description": "A lightweight, customizable first person character controller with no dependencies. Uses default camera and old input system.\n\nJust drag the prefab into your scene and press play. The controller finds and configures your camera as well as required components.\n\nToggle features or customize settings in the inspector.",
+	"author": {
+		"name": "Jimothy",
+		"email": "antijulius@gmail.com",
+		"url": "https://www.jimothy.io"
+	},
+	"keywords": [
+		"jimothy",
+		"fpc",
+		"fps",
+		"controller",
+		"old input system",
+		"first person controller"
+	]
+}
